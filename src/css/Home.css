@@ -1,0 +1,36 @@
+h1  {
+    color: red;
+}
+a.active {
+    color: red;
+}
+.ui-fileupload-files {
+    display: inline !important;
+  }
+  .ui-fileupload-row {
+    display: inline-grid !important;
+    position: relative !important;
+    text-align: center !important;
+  }
+  .ui-fileupload-files img {
+    width: 145px !important;
+    height: 150px !important;
+  }
+  .ui-button-icon-only {
+    position: absolute !important;
+    top: 8px !important;
+    right: 12px !important;
+  }
+  div#add {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+    text-align: center;
+    border: 5px #948c8c dotted;
+    color: #948c8c;
+    padding-top: 20px;
+  }
+  canvas {
+    margin-top: 50px;
+  }
